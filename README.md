@@ -234,10 +234,10 @@ param_fifo #(
 
 ## 👤 Author
 
-Nimmana Shashank Krishna 
-B.E / B.Tech — EEE  
-nimmanashashankkrishna@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Nimmana Shashank Krishna**  
+B.E / B.Tech — VLSI / ECE / EEE  
+📧 nimmana.shashank@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nimmana-shashank-krishna-423516258) | [GitHub](https://github.com/NimmanaShashankKrishna)
 
 ---
 
