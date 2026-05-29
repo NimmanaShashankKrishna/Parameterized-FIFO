@@ -234,9 +234,9 @@ param_fifo #(
 
 ## 👤 Author
 
-**[Your Name]**  
-B.E / B.Tech — VLSI / ECE / EEE  
-📧 your.email@example.com  
+Nimmana Shashank Krishna 
+B.E / B.Tech — EEE  
+nimmanashashankkrishna@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
